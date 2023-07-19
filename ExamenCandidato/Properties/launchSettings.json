@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExamenCandidato": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Samples/Files\"\r\n\"Samples/Instalation\""
+    }
+  }
+}

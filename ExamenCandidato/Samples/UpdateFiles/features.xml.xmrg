@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features type="array" xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform"
+  xdt:Transform="Replace">
+  <feature>
+    <start-date>Today</start-date>
+    <end-date>Yesterday :)</end-date>
+    <description>Allow users to login</description>
+  </feature>
+</features>
