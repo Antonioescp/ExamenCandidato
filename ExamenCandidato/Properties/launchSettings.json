@@ -2,7 +2,7 @@
   "profiles": {
     "ExamenCandidato": {
       "commandName": "Project",
-      "commandLineArgs": "\"Samples/Files\"\r\n\"Samples/Instalation\""
+      "commandLineArgs": "\"$(ProjectDir)$(OutputPath)Samples\\UpdateFiles\"\r\n\"$(ProjectDir)$(OutputPath)Samples\\Installation\""
     }
   }
 }
