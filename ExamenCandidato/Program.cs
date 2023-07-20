@@ -13,7 +13,7 @@ namespace Sample
 
         static void Main(string[] args)
         {
-            if (args.Length < 2) {
+            if (args.Length != 2) {
                 Log.Error(programUsage);
                 return;
             }
